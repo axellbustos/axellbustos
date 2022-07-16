@@ -8,6 +8,15 @@
 
 #### Intereses
 [![My Skills](https://skillicons.dev/icons?i=react,angular,cpp,java,python)](https://skillicons.dev)
+
+### Redes
+linkedin: axel bustos
+discord: axell.bustos#7833
+github: axell.bustos
+slack: axel bustos
+
+### Sistemas operativos
+[![My Skills](https://skillicons.dev/icons?i=linux,windows)](https://skillicons.dev)
 <!--
 **axellbustos/axellbustos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
