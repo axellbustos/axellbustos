@@ -1,5 +1,13 @@
 ### Hi there 👋
+### Sobre mi.
 
+#### Estudiante de telecomunicaciones en instituto santo domingo y programacion con digital house, estoy interesado en el mundo IT en general, me gusta leer libros y mis gustos musicales son variados.
+
+### Lenguajes y Herramientas.
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,vscode,md,github,figma)](https://skillicons.dev)
+
+#### Intereses
+[![My Skills](https://skillicons.dev/icons?i=react,angular,cpp,java,python)](https://skillicons.dev)
 <!--
 **axellbustos/axellbustos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
