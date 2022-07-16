@@ -14,6 +14,7 @@ linkedin: axel bustos
 discord: axell.bustos#7833
 github: axell.bustos
 slack: axel bustos
+</>https://twitter.com/iampavangandhi
 
 ### Sistemas operativos
 [![My Skills](https://skillicons.dev/icons?i=linux,windows)](https://skillicons.dev)
