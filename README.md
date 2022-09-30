@@ -3,8 +3,30 @@
 
 #### Estudiante de telecomunicaciones en instituto santo domingo y programacion con digital house, estoy interesado en el mundo IT en general, me gusta leer libros y mis gustos musicales son variados.
 
-### Lenguajes y Herramientas.
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,vscode,md,github,figma)](https://skillicons.dev)
+### Lenguajes 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=javascript,python" />
+  </a>
+</p>
+### front
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css" />
+  </a>
+</p>
+### back
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express" />
+  </a>
+</p>
+### bases de datos
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql" />
+  </a>
+</p>
 
 #### Intereses
 <p align="center">
@@ -12,7 +34,6 @@
     <img src="https://skillicons.dev/icons?i=react,angular,cpp,java,python" />
   </a>
 </p>
-[![My Skills](https://skillicons.dev/icons?i=react,angular,cpp,java,python)](https://skillicons.dev)
 
 ### Redes
 linkedin: axel bustos
