@@ -4,17 +4,12 @@
 #### Estudiante de telecomunicaciones en instituto santo domingo y programacion con digital house, estoy interesado en el mundo IT en general, me gusta leer libros y mis gustos musicales son variados.
 
 ### Lenguajes 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,python" />
-  </a>
-</p>
+<img src="https://skillicons.dev/icons?i=javascript,python" />
+
 ### front
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css" />
-  </a>
-</p>
+<img src="https://skillicons.dev/icons?i=html,css" />
+
 ### back
 <p align="center">
   <a href="https://skillicons.dev">
