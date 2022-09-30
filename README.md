@@ -21,7 +21,7 @@
 
 
 ### Contact
-<img src="https://skillicons.dev/icons?i=discord" /> <img src="https://skillicons.dev/icons?i=github" /> <img src="https://skillicons.dev/icons?i=linkedin" /> <img style="width:30px, heigth: 5px" src="https://cdn-icons-png.flaticon.com/128/2111/2111615.png" />
+<img src="https://skillicons.dev/icons?i=discord" /> <img src="https://skillicons.dev/icons?i=github" /> <img src="https://skillicons.dev/icons?i=linkedin" /> 
 
 
 
