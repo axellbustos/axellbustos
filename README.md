@@ -7,6 +7,11 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,vscode,md,github,figma)](https://skillicons.dev)
 
 #### Intereses
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,angular,cpp,java,python" />
+  </a>
+</p>
 [![My Skills](https://skillicons.dev/icons?i=react,angular,cpp,java,python)](https://skillicons.dev)
 
 ### Redes
