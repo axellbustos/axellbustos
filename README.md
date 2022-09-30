@@ -4,40 +4,30 @@
 #### Estudiante de telecomunicaciones en instituto santo domingo y programacion con digital house, estoy interesado en el mundo IT en general, me gusta leer libros y mis gustos musicales son variados.
 
 ### Lenguajes 
-<img src="https://skillicons.dev/icons?i=javascript,python" />
+<img src="https://skillicons.dev/icons?i=js,python" />
 
 ### front
-<p align="center">
 <img src="https://skillicons.dev/icons?i=html,css" />
 
 ### back
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express" />
-  </a>
-</p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+ 
 ### bases de datos
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql" />
-  </a>
-</p>
+<img src="https://skillicons.dev/icons?i=mysql" />
 
-#### Intereses
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,angular,cpp,java,python" />
-  </a>
-</p>
+
+### herramientas
+ <img src="https://skillicons.dev/icons?i=vscode,git,figma,linux,bootstrap,heroku,md" />
+
 
 ### Redes
-linkedin: axel bustos
-discord: axell.bustos#7833
-github: axell.bustos
+<img src="https://skillicons.dev/icons?i=discord" />
+<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=linkedin" />
+<img src="https://skillicons.dev/icons?i=slack" />
+
 slack: axel bustos
 
-### Sistemas operativos
-[![My Skills](https://skillicons.dev/icons?i=linux,windows)](https://skillicons.dev)
 <!--
 **axellbustos/axellbustos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
