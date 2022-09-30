@@ -21,10 +21,7 @@
 
 
 ### Redes
-<img src="https://skillicons.dev/icons?i=discord" />
-<img src="https://skillicons.dev/icons?i=github" />
-<img src="https://skillicons.dev/icons?i=linkedin" />
-<img src="https://skillicons.dev/icons?i=slack" />
+<img src="https://skillicons.dev/icons?i=discord" /><img src="https://skillicons.dev/icons?i=github" /><img src="https://skillicons.dev/icons?i=linkedin" /><img src="https://skillicons.dev/icons?i=slack" />
 
 slack: axel bustos
 
