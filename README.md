@@ -21,9 +21,9 @@
 
 
 ### Contact
-<img src="https://skillicons.dev/icons?i=discord" />, <img src="https://skillicons.dev/icons?i=github" />, <img src="https://skillicons.dev/icons?i=linkedin" />, <img src="https://skillicons.dev/icons?i=slack" />
+<img src="https://skillicons.dev/icons?i=discord" /> <img src="https://skillicons.dev/icons?i=github" /> <img src="https://skillicons.dev/icons?i=linkedin" /> <img src="https://cdn-icons-png.flaticon.com/128/2111/2111615.png" />
 
-slack: axel bustos
+
 
 <!--
 **axellbustos/axellbustos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
