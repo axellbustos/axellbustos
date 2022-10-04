@@ -21,7 +21,7 @@
 
 
 ### Contact
-<img src="https://skillicons.dev/icons?i=discord" /> <img src="https://skillicons.dev/icons?i=github" /> <img src="https://skillicons.dev/icons?i=linkedin" /> 
+<img src="https://skillicons.dev/icons?i=discord" /> <img src="https://skillicons.dev/icons?i=github" />  <a href="https://www.linkedin.com/in/axel-bustos/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 
 
 
